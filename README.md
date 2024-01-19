@@ -1,4 +1,4 @@
-# ComputerVision-Porjects
+# ComputerVision-Projects
 I intend in this repository to present different methods to solve computer vision problems.
 
 ## rapport_RSNA.pdf
